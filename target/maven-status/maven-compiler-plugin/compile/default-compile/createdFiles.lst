@@ -1,0 +1,16 @@
+com/edu/ufcg/question5/impl/MainChannel$1.class
+com/edu/ufcg/App.class
+com/edu/ufcg/question4/impl/AppointmentNotifierImpl.class
+com/edu/ufcg/question4/impl/AppointmentImpl.class
+com/edu/ufcg/question4/impl/AppointmentManagerImpl$1.class
+com/edu/ufcg/question4/interfaces/AppointmentNotifier.class
+com/edu/ufcg/question5/impl/MainChannel$2.class
+com/edu/ufcg/question5/impl/MainChannel.class
+com/edu/ufcg/question4/impl/AppointmentManagerImpl$2.class
+com/edu/ufcg/question4/impl/AppointmentManagerImpl.class
+com/edu/ufcg/question5/impl/ChannelImpl.class
+com/edu/ufcg/question5/interfaces/Channel.class
+com/edu/ufcg/question4/interfaces/AppointmentManager.class
+com/edu/ufcg/question4/impl/UtilsImpl.class
+com/edu/ufcg/question4/interfaces/Utils.class
+com/edu/ufcg/question4/interfaces/Appointment.class
