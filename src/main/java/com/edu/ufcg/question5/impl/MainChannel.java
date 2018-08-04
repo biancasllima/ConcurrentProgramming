@@ -47,7 +47,7 @@ public class MainChannel {
         }
         try {
             t02.join();
-        } catch (InterruptedException e) { //  aasdasdasdasd
+        } catch (InterruptedException e) {
             e.printStackTrace();
         }
     }
